@@ -1,0 +1,82 @@
+ÝÇÝNDEKÝLER
+https://www.sqlitetutorial.net/
+-------------------------------------------------------------
+1.GETTING STARTED
+    1.1.What Is SQLite
+    1.2.Download & Install SQLite
+    1.3.SQLite Sample Database
+    1.4.SQLite Commands
+
+2.SQLITE TUTORIAL
+    2.1.SQLite Select
+    2.2.SQLite Order By
+    2.3.SQLite Select Distinct
+    2.4.SQLite Where
+    2.5.SQLite Limit
+    2.6.SQLite BETWEEN
+    2.7.SQLite IN
+    2.8.SQLite Like
+    2.9.SQLite IS NULL
+    2.10.SQLite GLOB
+    2.11.SQLite Join
+    2.12.SQLite Inner Join
+    2.13.SQLite Left Join
+    2.14.SQLite Cross Join
+    2.15.SQLite Self-Join
+    2.16.SQLite Full Outer Join
+    2.17.SQLite Group By
+    2.18.SQLite Having
+    2.19.SQLite Union
+    2.20.SQLite Except
+    2.21.SQLite Intersect
+    2.22.SQLite Subquery
+    2.23.SQLite EXISTS
+    2.24.SQLite Case
+    2.25.SQLite Insert
+    2.26.SQLite Update
+    2.27.SQLite Delete
+    2.28.SQLite Replace
+    2.29.SQLite Transaction
+
+3.SQLITE DATA DEFINITION
+    3.1.SQLite Data Types
+    3.2.SQLite Date & Time
+    3.3.SQLite Create Table
+    3.4.SQLite Primary Key
+    3.5.SQLite Foreign Key
+    3.6.SQLite NOT NULL Constraint
+    3.7.SQLite UNIQUE Constraint
+    3.8.SQLite CHECK constraints
+    3.9.SQLite AUTOINCREMENT
+    3.10.SQLite Alter Table
+    3.11.SQLite Rename Column
+    3.12.SQLite Drop Table
+    3.13.SQLite Create View
+    3.14.SQLite Drop View
+    3.15.SQLite Index
+    3.16.SQLite Expression-based Index
+    3.17.SQLite Trigger
+    3.18.SQLite VACUUM
+    3.19.SQLite Transaction
+    3.20.SQLite Full-text Search
+
+4.SQLITE TOOLS
+    4.1.SQLite Commands
+    4.2.SQLite Show Tables
+    4.3.SQLite Describe Table
+    4.4.SQLite Dump
+    4.5.SQLite Import CSV
+    4.6.SQLite Export CSV
+
+5.SQLITE FUNCTIONS
+    5.1.SQLite AVG
+    5.2.SQLite COUNT
+    5.3.SQLite MAX
+    5.4.SQLite MIN
+    5.5.SQLite SUM
+
+6.SQLITE INTERFACES
+    6.1.SQLite PHP
+    6.2.SQLite Node.js
+    6.3.SQLite Java
+    6.4.SQLite Python
